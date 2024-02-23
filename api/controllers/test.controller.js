@@ -1,5 +1,5 @@
 const test = (req, res) => {
-    res.send({ message: "APIs is working!" });
+    res.send({ message: "APIs is working bro!" });
     console.log("hi", req.body);
 };
 
